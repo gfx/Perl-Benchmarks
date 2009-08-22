@@ -1,0 +1,7 @@
+Perl/5.10.0 on i686-linux
+
+                      Rate SUPER/Derived non-SUPER/Derived non-SUPER/Base SUPER/Base
+SUPER/Derived      27926/s            --              -62%           -69%       -78%
+non-SUPER/Derived  73080/s          162%                --           -18%       -41%
+non-SUPER/Base     89321/s          220%               22%             --       -28%
+SUPER/Base        124842/s          347%               71%            40%         --
