@@ -1,0 +1,7 @@
+Perl/5.10.0 on i686-linux
+
+                Rate     SUPER/D non-SUPER/D non-SUPER/B     SUPER/B
+SUPER/D      27675/s          --        -60%        -69%        -77%
+non-SUPER/D  68922/s        149%          --        -22%        -43%
+non-SUPER/B  88768/s        221%         29%          --        -26%
+SUPER/B     120302/s        335%         75%         36%          --
